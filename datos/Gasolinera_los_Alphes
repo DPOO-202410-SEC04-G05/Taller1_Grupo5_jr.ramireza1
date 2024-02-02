@@ -1,0 +1,13 @@
+tipo:ACPM:6500:10.0
+tipo:Extra:8950:20.0
+tipo:Corriente:7950:20.0
+tipo:Diesel:5500:20.0
+surtidor:Sara:ACPM:0.0:Extra:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Ximena:ACPM:0.0:Extra:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Sara:ACPM:0.0:Extra:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Robert:ACPM:0.0:Extra:0.0:Corriente:0.0:Diesel:0.0
+empleado:Santigo:0
+empleado:Robert:0
+empleado:Ximena:0
+empleado:Sara:0
+empleado:Julian:0
